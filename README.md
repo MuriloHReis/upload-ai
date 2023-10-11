@@ -7,9 +7,8 @@
    <img src="https://img.shields.io/github/languages/count/lamendes/nlw-ia" alt="Languages">
 	<img src="https://img.shields.io/github/repo-size/lamendes/nlw-ia " alt="Repo Size"> 
   	<a href="https://github.com/lamendes/nlw-ia/commits/master"> 
-   		<img src="https://img.shields.io/github/last-commit/lamendes/nlw-ia" alt="Last Commit"> 
+   		<img src="https://img.shields.io/github/last-commit/MuriloHReis/upload-ai" alt="Last Commit"> 
  	</a> 
- 	<img src="https://img.shields.io/badge/made%20by- <nlw/>/Rocketseat-%2304D361%22" alt="Languages">
   	<a href="https://opensource.org/licenses/MIT"> 
    		<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
   	</a> 
